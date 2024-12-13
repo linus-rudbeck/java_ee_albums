@@ -22,12 +22,8 @@
     <li><a href="second-servlet">Second Servlet</a></li>
     <li><a href="third-servlet">Third Servlet</a></li>
     <li><a href="test-servlet">Test Servlet</a></li>
+    <li><a href="albums-servlet">Albums Servlet</a></li>
 </ul>
-<br/>
-
-
-<br/>
-
 
 </body>
 </html>
